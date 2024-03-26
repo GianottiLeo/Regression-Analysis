@@ -1,4 +1,6 @@
 # Statistical Regression Project
-Projects developed during my course in USP
+Projects developed during my course in USP. Throughout this course, I've delved deep into the expansive capabilities of R for statistical analysis, and it's been a transformative journey. From basic data manipulation to advanced modeling techniques, I was presented to the statistical exploration and inference power of the plataform. With each class, I've developed a profound appreciation for the versatility and efficiency of this tool.
 
-[Development.pdf](https://github.com/GianottiLeo/Variance-Analysis/files/14763785/Development.pdf)
+Beyond just scratching the surface, we learned statistical methodologies and used multiple libraries, packages and resources (to list some, tidyverse for tidy data manipulation and ggplot2 for visualizations, were the main ones).Through hands-on projects and real-world examples, I've witnessed firsthand how R can streamline workflows, allowing for seamless data preprocessing, modeling, and visualization.
+
+Overall, this experience has not only equipped me with a comprehensive understanding of R's potential but has also instilled in me a sense of confidence and proficiency in utilizing it for statistical analysis. As I reflect on my journey, I am truly grateful for the opportunity to deepen my knowledge and expertise in this invaluable tool, and I'm excited to leverage it in future endeavors.
